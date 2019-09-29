@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <color name="colorPrimary">#006F4A</color>
+    <color name="colorPrimaryDark">#006F4A</color>
+    <color name="colorAccent">#006F4A</color>
+
+    <!-- Colores de la marca -->
+    <!-- Primario -->
+    <color name="primaryLighter">#32AC84</color>
+    <color name="primaryLight">#128F66</color>
+    <color name="primaryNormal">#006F4A</color>
+    <color name="primaryDark">#006743</color>
+    <color name="primaryDarker">#005C3A</color>
+
+    <!-- secundario -->
+    <color name="secondaryLighter">#DFE1E3</color>
+    <color name="secondaryLight">#B3BABD</color>
+    <color name="secondaryNormal">#939CA1</color>
+    <color name="secondaryDark">#8B9499</color>
+    <color name="secondaryDarker">#808A8F</color>
+
+    <!-- Colores Basicos -->
+    <!-- Color oscuro -->
+    <color name="darkLighter">#BFC2CB</color>
+    <color name="darkLight">#697185</color>
+    <color name="darkNormal">#293451</color>
+    <color name="darkDark">#242F4A</color>
+    <color name="darkDarker">#1F2740</color>
+
+    <!-- Color oscuro -->
+    <color name="whiteNormal">#FFFFFF</color>
+    <color name="whiteDark">#F9FAFB</color>
+    <color name="whiteDarker">#F2F3F5</color>
+
+    <!-- Background -->
+    <color name="backgroundNormal">#FAFBFD</color>
+
+    <!-- Estados -->
+    <!-- Exito -->
+    <color name="successLighter">#B3EDDD</color>
+    <color name="successLight">#4DD6AF</color>
+    <color name="successNormal">#00C48C</color>
+    <color name="successDark">#00B977</color>
+    <color name="successDarker">#00A96C</color>
+
+    <!-- Precaucion -->
+    <color name="warningLighter">#FFE0B3</color>
+    <color name="warningLight">#FFB74D</color>
+    <color name="warningNormal">#FF9800</color>
+    <color name="warningDark">#FF9000</color>
+    <color name="warningDarker">#FF8500</color>
+
+    <!-- Informacion -->
+    <color name="infoLighter">#B3DFFF</color>
+    <color name="infoLight">#4DB5FF</color>
+    <color name="infoNormal">#0095FF</color>
+    <color name="infoDark">#006FD6</color>
+    <color name="infoDarker">#0057C2</color>
+
+    <!-- Informacion -->
+    <color name="errorLighter">#FCC7C3</color>
+    <color name="errorLight">#F77B72</color>
+    <color name="errorNormal">#F44336</color>
+    <color name="errorDark">#E53935</color>
+    <color name="errorDarker">#D32F2F</color>
+
+
+
+</resources>
